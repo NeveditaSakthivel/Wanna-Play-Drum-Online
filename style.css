@@ -41,7 +41,7 @@ h3{
   text-shadow: 2px 2px grey;
 }
 .w{
-  background-image: url(crash.png);
+  background-image: url(./crash.png);
 }
 .a{
   background-image: url(kick.png);
