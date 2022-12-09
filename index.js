@@ -19,7 +19,7 @@ function makesound(s)
   switch(s)
   {
     case 'W':
-    var crash = new Audio('https://github.com/user/project/blob/main/audio/crash.mp3?raw=true'');
+    var crash = new Audio('https://github.com/user/project/blob/main/audio/crash.mp3?raw=true');
     crash.play();
     break;
     case 'A':
